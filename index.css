@@ -151,7 +151,7 @@ button {
 /* From Uiverse.io by vinodjangid07 */
 .Btn-Container {
   position: absolute;
-  top: 60%;
+  top: 80%;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
@@ -237,3 +237,4 @@ button {
     height: 40px;
   }
 }
+
